@@ -37,6 +37,6 @@ else:
 
 **Based on the 'neg' score, we determine whether the sentiment is positive or negative. If the 'neg' score is not equal to 0, we consider it negative; otherwise, it's positive**
 
-[image] (https://github.com/sshivam12/RealTimeSentimentAnalysis/blob/main/image.png)
+![image] (https://github.com/sshivam12/RealTimeSentimentAnalysis/blob/main/image.png)
 
 # Thank You 
